@@ -1,0 +1,11 @@
+{
+  "name": "omvcr",
+  "version": "0.0.1",
+  "main": "index.js",
+  "bin": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pcsclite": "^1.0.0"
+  }
+}
