@@ -24,4 +24,5 @@ pkg -t node12-win .
 - To put it in a simpler way, if we want a Windows executable, we run the `pkg` build step (including the installation of node modules — `npm install`) on  Windows.
 
 ### Miscellaneous/Help
-- [GitHub Gist: Configuring Windows 10 (64-bit) for npm and node-gyp](https://gist.github.com/jtrefry/fd0ea70a89e2c3b7779c)
+- [GitHub Gist: Configuring Windows 10 (64-bit) for node-gyp](https://gist.github.com/jtrefry/fd0ea70a89e2c3b7779c)
+- [GitHub Gist: Configuring Windows (32-bit) for node-gyp](https://gist.github.com/fatman-/26c34fadf6344277410fb875c75de515)
